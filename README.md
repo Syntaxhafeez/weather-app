@@ -17,7 +17,7 @@ A simple Weather App that provides real-time weather updates using the OpenWeath
 
 ## Screenshot 📸
 
-
+![Screenshot 2025-01-08 201220](https://github.com/user-attachments/assets/134a9871-c2a9-4c58-9c27-ba89da7e35c0)
 
 
 ### Connect with Me 👋  
